@@ -1,0 +1,33 @@
+.right-side{
+    display: flex;
+    background-color: beige;
+}
+img.right-side{
+    width:700px;
+    height:300px
+}
+p.right-side{
+    padding-left: 30px;
+    
+}
+h1.upper-section{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1.right-side2{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.right-side2{
+    display: flex;
+    background-color:beige;
+}
+img.right-side2{
+    width:700px;
+    height:250px;
+    margin-left: 20px;
+}
+.details{
+    text-align: center;
+    background-color: beige;
+}
